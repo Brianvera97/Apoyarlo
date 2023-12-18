@@ -1,6 +1,6 @@
 
 import './App.css';
-import SomeClassComponent from './components/SomeClassComponent';
+import SomeClassComponent from './components/PersonCard/SomeClassComponent';
 
 function App() {
   return (
